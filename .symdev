@@ -1,0 +1,12 @@
+{
+  "project_id" : 596,
+  "project_name" : "py_15",
+  "language" : "PYTHON",
+  "ai_chat_id" : "16e1nNvfkWyeBcM8e8s2RPLEGd3X2T8wt",
+  "symdev_account_email" : "cezeriotonom@gmail.com",
+  "llm_account_email" : "symdev.pro@gmail.com",
+  "github_repo_url" : "https://github.com/cezeriotonom/py_15.git",
+  "build_command" : null,
+  "run_command" : "py src/main.py",
+  "open_browser_url" : null
+}
